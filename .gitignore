@@ -1,0 +1,6 @@
+.env
+_research/
+__pycache__/
+*.pyc
+data/
+.venv/
