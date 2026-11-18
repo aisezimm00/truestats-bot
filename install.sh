@@ -1,11 +1,11 @@
 #!/bin/bash
 # Установка / обновление бота TrueStats ДДС (@kirpix_dds_bot) на Mac.
 # Одна команда, повторный запуск = обновление кода и перезапуск:
-#   curl -fsSL https://raw.githubusercontent.com/aisewen08-afk/truestats-bot/main/install.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/aisezimm00/truestats-bot/main/install.sh | bash
 # Перед первым запуском положить файл truestats-bot.env (от Айсезим) в папку «Загрузки».
 set -euo pipefail
 
-GH_USER="aisewen08-afk"
+GH_USER="aisezimm00"
 REPO="truestats-bot"
 BRANCH="main"
 DIR="$HOME/truestats-bot"

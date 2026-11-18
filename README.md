@@ -42,7 +42,7 @@ Windows (пилот): `run.bat` или `python bot.py`. Лог: `data/bot.log`.
 
 Mac mini (постоянно, одна команда в Терминале):
 ```bash
-curl -fsSL https://raw.githubusercontent.com/aisewen08-afk/truestats-bot/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/aisezimm00/truestats-bot/main/install.sh | bash
 ```
 Перед первым запуском положить файл настроек `truestats-bot.env` (это `.env` с заполненным
 `ANTHROPIC_API_KEY`) в папку «Загрузки». Скрипт сам ставит uv + Python 3.13, библиотеки,
